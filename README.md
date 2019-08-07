@@ -1,5 +1,5 @@
 # NodeJS-server-patient
-Testing 5 different Operations with NodeJS and mongoDB
+A CRUD basic api with Node.js
 
 
 In this project I used mongoDB with docker as a database to be simpler...
